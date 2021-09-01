@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://jorgea380.github.io/Taller/TallerMSIX.appinstaller"
-	Version="1.0.14.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	Version="1.0.15.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
 	<MainBundle
 		Name="TallerMSIX"
-		Version="1.0.14.0"
+		Version="1.0.15.0"
 		Publisher="CN=Jorge Gutierrez"
-		Uri="https://jorgea380.github.io/Taller/TallerMSIX_1.0.14.0_Test/TallerMSIX_1.0.14.0_AnyCPU.msixbundle" />
+		Uri="https://jorgea380.github.io/Taller/TallerMSIX_1.0.15.0_Test/TallerMSIX_1.0.15.0_AnyCPU.msixbundle" />
 	<UpdateSettings>
 		<OnLaunch
 			HoursBetweenUpdateChecks="0"
